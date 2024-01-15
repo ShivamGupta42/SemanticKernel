@@ -1,0 +1,13 @@
+Please precisely write a joke or humorous story about the following theme:
+
+The joke must comply with the following requirements:
+- Short, no more than 100 words
+- Safe for workplace and home
+
+No gender discrimination, racial discrimination, or other biases/prejudices.
+Please be creative and bring joy. I want to laugh.
+If a style suggestion is provided, please incorporate it: {{$style}}
++++++
+
+{{$input}}
++++++
